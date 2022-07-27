@@ -12,7 +12,7 @@ from numpy import argmax
 from tensorflow.nn import softmax
 
 
-MODEL_PATH = r'C:\Users\shirs\Desktop\CV Projects\Cotton Disease Prediction Project\TransferLearning_ResNet50_Model'
+MODEL_PATH = 'TransferLearning_ResNet50_Model'
 model = load_model(MODEL_PATH)
 
 st.write("""
