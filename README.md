@@ -54,6 +54,17 @@ This project aims to develop an image classification model for predicting diseas
 #### Conclusion
 This project exemplifies the journey from data collection to model selection and deployment. Techniques such as data augmentation, hyperparameter tuning, and transfer learning contribute to building a robust solution for real-world cotton disease prediction.
 
+
+### Web app screenshots
+![dis leaf](https://github.com/shirsh10mall/Cotton-Disease-Prediction-Image-Classification-/assets/87264071/75742b5f-6b72-4655-9f8d-ba2cbb5fd298)
+<br>
+![dis plant](https://github.com/shirsh10mall/Cotton-Disease-Prediction-Image-Classification-/assets/87264071/66e02509-cceb-4bef-b47e-3a9b1277669a)
+<br>
+![freash leaf](https://github.com/shirsh10mall/Cotton-Disease-Prediction-Image-Classification-/assets/87264071/2d4bc6de-b84f-4bee-a91e-d8a0cb16828d)
+<br>
+![fresh plant](https://github.com/shirsh10mall/Cotton-Disease-Prediction-Image-Classification-/assets/87264071/108882f9-7a0b-404e-8259-21968dc29110)
+<br>
+
 ---
 
 **Sources:**
