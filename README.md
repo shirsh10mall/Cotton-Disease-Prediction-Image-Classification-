@@ -1,7 +1,7 @@
 ### Kaggle Notebook Link: https://www.kaggle.com/code/shirshmall/cotton-disease-prediction
 ### Data Set Link: https://www.kaggle.com/datasets/janmejaybhoi/cotton-disease-dataset
 
-### Project Title: Cotton Disease Prediction - Image Classification (Multi-class classification)
+## Project Title: Cotton Disease Prediction - Image Classification (Multi-class classification)
 
 #### Project Overview
 This project aims to develop an image classification model for predicting diseases in cotton plants. The dataset, sourced from Kaggle, contains images of diseased and non-diseased cotton plants and leaves, captured using a mobile phone camera. The primary objective is to accurately categorize these images into distinct disease classes.
