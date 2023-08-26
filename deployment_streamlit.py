@@ -37,10 +37,11 @@ if file is None:
 else:
     # image = Image.open(file)
     img = image.load_img(file)
-    st.image(img, use_column_width=True)
+    st.image(img, use_column_width=False)
     image = image.img_to_array(img)
     image = smart_resize( image, (256,256), interpolation='bilinear')
         
     prediction = import_and_predict(image, model)
-    
+
+    st.text(" \n\n Prediction:")
     st.write(prediction)
